@@ -1,2 +1,2 @@
 # koo
-Rain control system ESP8266 
+Home irrigation control system using a ESP8266 
